@@ -1,0 +1,461 @@
+{
+    "schema_version": "3.0.0",
+
+    "packages":
+    [
+        {
+            "name": "A File Icon",
+            "previous_names": ["File Icons Extended", "zz File Icons"],
+            "details": "https://github.com/ihodev/a-file-icon",
+            "author": "ihodev",
+            "labels": ["theme", "file", "icons"],
+            "releases": [
+                {
+                    "sublime_text": ">=3114",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "AdvancedNewFile",
+            "details": "https://github.com/skuroda/Sublime-AdvancedNewFile",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Alignment",
+            "author": "Will Bond (wbond)",
+            "details": "https://github.com/wbond/sublime_alignment",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/wbond/sublime_alignment/tags"
+                }
+            ]
+        },
+        {
+            "name": "Anaconda",
+            "details": "https://github.com/DamnWidget/anaconda",
+            "labels": ["linting", "auto-complete", "python"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "ANSIescape",
+            "details": "https://github.com/aziz/SublimeANSI",
+            "labels": ["language syntax"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "AutomaticPackageReloader",
+            "details": "https://github.com/randy3k/AutomaticPackageReloader",
+            "previous_names": ["PackageReloader"],
+            "releases": 
+            [
+                {
+                  "sublime_text": ">=3000",
+                  "tags": true
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/facelessuser/BracketHighlighter",
+            "releases": [
+                {
+                    "sublime_text": "<3000",
+                    "tags": "st2-"
+                },
+                {
+                    "sublime_text": ">=3000",
+                    "tags": "st3-"
+                }
+            ]
+        },
+        {
+            "name": "Case Conversion",
+            "details": "https://github.com/jdc0589/CaseConversion",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "branch": "master"
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/crash5/CopyWithLineNumbersReloaded",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "DoxyDoxygen",
+            "description": "Make commenting easier. Supports Doxygen, JsDoc3, PhpDocumentor...",
+            "author": "20Tauri",
+            "homepage": "http://20tauri.free.fr/DoxyDoxygen/",
+            "issues": "https://github.com/20Tauri/DoxyDoxygen/issues",
+            "buy": "http://20tauri.free.fr/DoxyDoxygen/v2/page_buy.php",
+            "readme": "https://raw.githubusercontent.com/20Tauri/DoxyDoxygen/master/README.md",
+            "previous_names": [],
+            "labels": [
+                "documentation",
+                "comments",
+                "auto-complete",
+                "snippets",
+                "translate",
+                "formatting"
+            ],
+            "releases": [
+                {
+                    "platforms": [ "*" ],
+                    "sublime_text": "<3000",
+                    "version": "0.63.3",
+                    "url": "https://github.com/20Tauri/DoxyDoxygen/releases/download/0.63.3/ST2_DoxyDoxygen.sublime-package",
+                    "date": "2018-02-08 22:19:41"
+                },
+                {
+                    "platforms": [ "*" ],
+                    "sublime_text": ">=3000",
+                    "version": "0.63.3",
+                    "url": "https://github.com/20Tauri/DoxyDoxygen/releases/download/0.63.3/ST3_DoxyDoxygen.sublime-package",
+                    "date": "2018-02-08 22:19:41"
+                }
+            ]
+        },
+        {
+            "name": "EasyClangComplete",
+            "details": "https://github.com/niosus/EasyClangComplete",
+            "readme": "https://raw.githubusercontent.com/niosus/EasyClangComplete/master/docs/pc_readme.md",
+            "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2QLY7J4Q944HS",
+            "labels": ["auto-complete", "linting", "language syntax"],
+            "releases": [
+                {
+                    "sublime_text": ">=3070",
+                    "platforms": ["osx", "linux", "windows"],
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/jisaacks/GitGutter",
+            "previous_names": ["Git Gutter", "GitGutter-Edge"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Include Autocomplete",
+            "details": "https://github.com/pieterverstraete/include_autocomplete",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "LiveReload",
+            "details": "https://github.com/alepez/LiveReload-sublimetext3",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "LSP",
+            "details": "https://github.com/tomv564/LSP",
+            "releases": [
+                {
+                    "sublime_text": ">=3092",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Markdown Preview",
+            "details": "https://github.com/revolunet/sublimetext-markdown-preview",
+            "labels": ["markdown", "preview", "build"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/SublimeText/MoveTab",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "branch": "master"
+                }
+            ]
+        },
+        {
+            "name": "MultiEditUtils",
+            "details": "https://github.com/philippotto/Sublime-MultiEditUtils",
+            "labels": ["text manipulation", "code navigation", "text selection"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Package Control",
+            "description": "A full-featured package manager",
+            "author": "Will Bond (wbond)",
+            "homepage": "https://packagecontrol.io",
+            "donate": "https://packagecontrol.io/say_thanks",
+            "details": "https://github.com/wbond/package_control",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "PackageDev",
+            "details": "https://github.com/SublimeText/PackageDev",
+            "previous_names": ["AAAPackageDev"],
+            "author": ["guillermooo", "FichteFoll"],
+            "releases": [
+                {
+                    "sublime_text": "<3118",
+                    "tags": "st2-"
+                },
+                {
+                    "sublime_text": ">=3118",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "PackageResourceViewer",
+            "details": "https://github.com/skuroda/PackageResourceViewer",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": "st3-"
+                },
+                {
+                    "sublime_text": "<3000",
+                    "tags": "st2-"
+                }
+            ]
+        },
+        {
+            "name": "Path Tools",
+            "details": "https://github.com/pjdietz/sublime-path-tools",
+            "donate": "http://pjdietz.com/say-thanks/",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/aziz/PlainTasks",
+            "labels": ["todo", "tasks"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "branch": "master"
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/mheinzler/SublimeGDB",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "branch": "master"
+                }
+            ]
+        },
+        {
+            "name": "Sublundo",
+            "details": "https://github.com/libundo/Sublundo",
+            "releases": [
+                {
+                    "sublime_text": ">=3092",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/Wramberg/TerminalView",
+            "labels": ["terminal", "console", "shell", "bash"],
+            "name": "TerminalView",
+            "releases": [
+                {
+                    "platforms": ["osx", "linux"],
+                    "sublime_text": ">=3092",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/SublimeText/TrailingSpaces",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "branch": "master"
+                }
+            ]
+        }
+    ],
+
+    "dependencies":
+    [
+        {
+            "name": "backrefs",
+            "author": "facelessuser",
+            "load_order": "50",
+            "description": "Backrefs regular expression wrapper.",
+            "issues": "https://github.com/facelessuser/sublime-backrefs/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/facelessuser/sublime-backrefs",
+                    "tags": true,
+                    "sublime_text": ">=3000"
+                }
+            ]
+        },
+        {
+            "name": "dateutil",
+            "load_order": "50",
+            "description": "The dateutil module provides powerful extensions to the datetime module available in the Python standard library",
+            "author": "vovkkk",
+            "issues": "https://github.com/vovkkk/sublime-dateutil/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/vovkkk/sublime-dateutil",
+                    "tags": true,
+                    "sublime_text": "*"
+                }
+            ]
+        },
+        {
+            "name": "markupsafe",
+            "load_order": "50",
+            "description": "Python MarkupSafe module",
+            "author": "teddy_beer_maniac",
+            "issues": "https://bitbucket.org/teddy_beer_maniac/sublime-text-dependency-markupsafe/issues",
+            "releases": [
+                {
+                    "base": "https://bitbucket.org/teddy_beer_maniac/sublime-text-dependency-markupsafe",
+                    "tags": true,
+                    "sublime_text": "*"
+                }
+            ]
+        },
+        {
+            "name": "mdpopups",
+            "author": "facelessuser",
+            "load_order": "55",
+            "description": "Markdown Popups for Sublime",
+            "issues": "https://github.com/facelessuser/sublime-markdown-popups/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/facelessuser/sublime-markdown-popups",
+                    "tags": true,
+                    "sublime_text": ">=3124"
+                }
+            ]
+        },
+        {
+            "name": "pygments",
+            "load_order": "01",
+            "description": "Python pygments module",
+            "author": "AndreasBackx",
+            "issues": "https://github.com/packagecontrol/pygments/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/packagecontrol/pygments",
+                    "tags": true,
+                    "sublime_text": "*"
+                }
+            ]
+        },
+        {
+            "name": "pymdownx",
+            "author": "facelessuser",
+            "load_order": "50",
+            "description": "PyMdown Extensions for Python Markdown",
+            "issues": "https://github.com/facelessuser/sublime-pymdownx/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/facelessuser/sublime-pymdownx",
+                    "tags": true,
+                    "sublime_text": ">=3000"
+                }
+            ]
+        },
+        {
+            "name": "python-jinja2",
+            "load_order": "51",
+            "description": "Python Jinja2 module",
+            "author": "teddy_beer_maniac",
+            "issues": "https://bitbucket.org/teddy_beer_maniac/sublime-text-dependency-jinja2/issues",
+            "releases": [
+                {
+                    "base": "https://bitbucket.org/teddy_beer_maniac/sublime-text-dependency-jinja2",
+                    "tags": true,
+                    "sublime_text": "*"
+                }
+            ]
+        },
+        {
+            "name": "python-markdown",
+            "author": "facelessuser",
+            "load_order": "50",
+            "description": "Python Markdown module",
+            "issues": "https://github.com/facelessuser/sublime-markdown/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/facelessuser/sublime-markdown",
+                    "tags": true,
+                    "sublime_text": ">=3000"
+                }
+            ]
+        },
+        {
+            "name": "pyyaml",
+            "load_order": "50",
+            "description": "Python PyYAML module",
+            "author": "FichteFoll",
+            "issues": "https://github.com/packagecontrol/pyyaml/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/packagecontrol/pyyaml",
+                    "tags": true,
+                    "sublime_text": "*"
+                }
+            ]
+        },
+    ],
+}
